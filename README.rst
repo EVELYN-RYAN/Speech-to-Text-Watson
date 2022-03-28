@@ -1,6 +1,6 @@
-==========================================================
-WARNING: This repository is no longer maintained :warning:
-==========================================================
+=======================================================================================================================================
+NOTE: This repository is user stevemar's with bug fixes that better support IBM's new protocol structure and additional error handling.
+=======================================================================================================================================
 
 This repository will not be updated. The repository will be kept available in read-only mode.
 
