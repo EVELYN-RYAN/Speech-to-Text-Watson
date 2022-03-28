@@ -1,8 +1,6 @@
 =======================================================================================================================================
-NOTE: This repository is user stevemar's with bug fixes that better support IBM's new protocol structure and additional error handling.
+NOTE: This repository is user stevemar's with bug fixes to support IBM's new protocol structure plus additional error handling.
 =======================================================================================================================================
-
-This repository will not be updated. The repository will be kept available in read-only mode.
 
 =========================================
  Watson Streaming Speech to Text Example
